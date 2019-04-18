@@ -1,0 +1,23 @@
+{
+  "name": "slackbot-dooh",
+  "version": "1.0.0",
+  "description": "Slackbot voor the Greenhousegroup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bartvdberkmortel/slackbot-dooh.git"
+  },
+  "author": "Bart van den Berkmortel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bartvdberkmortel/slackbot-dooh/issues"
+  },
+  "homepage": "https://github.com/Bartvdberkmortel/slackbot-dooh#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
