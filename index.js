@@ -88,7 +88,7 @@ function runHelp() {
 
     bot.postMessageToChannel(
         'dooh-poll',
-        `Type @jokebot with either 'chucknorris', 'yomama' or 'random' to get a joke`,
+        `Type @greenhousedooh with either 'chucknorris', 'yomama' or 'random' to get a joke`,
         params
     );
 }
